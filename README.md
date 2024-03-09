@@ -1,4 +1,4 @@
-## _Informações Sobre Mim
+## _Informações Sobre Mim_
 
 > Neste projeto irei registrar algumas informações pessoais.
 
