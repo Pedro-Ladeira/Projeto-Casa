@@ -3,6 +3,13 @@
 
 /* Exemplo de seletores do tipo TAG */
 
+header{
+    font-size: 4rem;
+}
+
 h1 {
-    color: red;
+    background-color: #000000;
+    color: rgb(220, 173, 173);
+    text-align: center;
+    font-size: 2em;
 }
